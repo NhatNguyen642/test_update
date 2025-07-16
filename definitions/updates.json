@@ -1,0 +1,18 @@
+{
+  "updates":{
+    "windows":{
+      "open-url":"https://github.com/Gremsy/gTuneDesktop/releases/download/v1.4.9.3/gTuneDesktop1.4.9.3_Windows_Official.zip",
+      "latest-version":"1.4.9.3",
+      "download-url":"https://github.com/Gremsy/gTuneDesktop/releases/download/v.1.4.9.3/gTuneDesktop1.4.9.3_Windows_Official.zip",
+      "changelog":"# Change logs? # What new? \r\n- Detect gimbal PIXY Q \r\n- Detect gimbal PIXY LR \r\n- Detect gimbal Vio \r\n",
+      "mandatory":true
+    },
+    "mac":{
+    "open-url":"https://github.com/Gremsy/gTuneDesktop/releases/download/v1.4.9.3/gTuneDesktop1.4.9.3_Mac_Official.zip",
+    "latest-version":"1.4.9.3",
+    "download-url":"https://github.com/Gremsy/gTuneDesktop/releases/download/v.1.4.9.3/gTuneDesktop1.4.9.3_Mac_Official.zip",
+    "changelog":"# Change logs? # What new? \r\n- Detect gimbal PIXY Q \r\n- Detect gimbal PIXY LR \r\n- Detect gimbal Vio \r\n",
+    "mandatory":true
+    }
+  }
+}
