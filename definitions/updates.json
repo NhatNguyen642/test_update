@@ -16,7 +16,7 @@
     },
     "android":{
       "open-url":"https://github.com/NhatNguyen642/test_update/releases/download/V2.0.0/Payload-Plus.zip",
-      "latest-version":"1.4.9.4",
+      "latest-version":"1.4.9.3",
       "download-url":"https://github.com/NhatNguyen642/test_update/releases/download/V2.0.0/Payload-Plus.zip",
       "changelog":"# Change logs? # What new? \r\n- Detect gimbal PIXY Q \r\n- Detect gimbal PIXY LR \r\n",
       "mandatory":true
